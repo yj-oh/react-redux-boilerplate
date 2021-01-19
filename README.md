@@ -1,5 +1,5 @@
-# 🚀 react-redux-boilerplate
-- 리액트 프로젝트를 쉽고 빠르게 시작하기 위한 밑바탕
+# 🔥🚀 react-redux-boilerplate
+- Boilerplate project with React + Redux
 - with [Create React App](https://github.com/facebook/create-react-app)
 
 ## 🔮 Dependencies
